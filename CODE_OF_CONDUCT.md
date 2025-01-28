@@ -1,31 +1,29 @@
-•  Be welcoming
+# Contributor Code of Conduct
 
-Aim to welcome and support people of all backgrounds and identities, of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+This Code of Conduct outlines our expectations for participants in the BOINC community, as well as steps to report unacceptable behavior. We are committed to fostering an open, welcoming, and inclusive environment where everyone can contribute and thrive.
 
-•  Be respectful and friendly
+## Our Standards
 
-Respect each other and each other's point of view. Different people have different perspectives on issues. Frustration cannot turn into a personal attack. It is important to remember that a community where people feel uncomfortable or threatened is not a productive one. Also remember that with a world-wide community, English may not be the native language of everyone and since all communication happens via text, it's impossible to read what mood the other is in.
+### Inclusivity and Respect
+- We welcome people of all backgrounds, identities, and experiences. This includes, but is not limited to, race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, physical appearance, family status, political belief, religion, and mental and physical ability.
+- Treat everyone with respect. Disagreement is natural, but personal attacks, harassment, or derogatory comments will not be tolerated.
 
-•  Be collaborative
+### Communication
+- Use respectful and inclusive language. Be mindful that English may not be everyone's first language, and written communication may lack tone or context.
+- Be patient and constructive when addressing misunderstandings or providing explanations, particularly for those with different levels of expertise.
 
-BOINC is a complex whole made of many parts. Cooperation between teams, that each have their own goal and vision is essential. For the whole to be more than the sum of its parts, each part must make an effort to understand the whole.
+### Collaboration
+- BOINC is a collaborative project made up of diverse teams. Cooperation and mutual understanding are essential to achieving shared goals.
+- Seek to understand the broader context of the project while contributing to individual components.
 
-•  Ask for help when unsure
+### Accountability
+- Own up to mistakes, and focus on resolving issues constructively. Blame and hostility undermine progress and community trust.
+- When disagreements cannot be resolved informally, refer to our [Governance guidelines](https://github.com/BOINC/boinc-policy/blob/main/Governance.md) for resolution processes.
 
-Nobody is expected to be perfect in this community. Asking questions early avoids many problems later, so questions are encouraged. Those who answer should be responsive and helpful.
+## Reporting Issues
+If you experience or witness behavior that violates this Code of Conduct, please report it via [our issue tracker](https://github.com/BOINC/boinc/issues) or contact a community moderator. For severe or sensitive issues, you can reach out privately via [contact@example.com].
 
-•  Be patient
+## Enforcement
+Instances of unacceptable behavior may result in temporary or permanent consequences, such as warnings, removal from discussions, or banning from the project. These actions will be determined by project maintainers on a case-by-case basis.
 
-Not everyone has the same level of expertise in language or coding, so be patient if an explanation needs to be given.
-
-•  Value decisiveness, clarity and consensus
-
-Social and technical disagreements should not be left to fester, leaving others uncertain of the agreed direction. The strength of the BOINC community comes from its diversity, people from a wide range of backgrounds. Being unable to understand why someone holds a viewpoint doesn't mean that that viewpoint is wrong.
-
-•  Resolve issues
-
-Don't forget that it is human to err and that blaming each other isn't productive. Instead, focus on helping to resolve issues and learning from mistakes. Participants in the project should try to resolve disagreements constructively. When it is impossible to reach an agreement, follow the [process outlined in the Governance document](https://github.com/BOINC/boinc-policy/blob/master/Governance.md#5-decision-processes) to come to a solution.
-
-
-We also adhere to the Github community guidelines, please see https://help.github.com/articles/github-community-guidelines/
-
+By participating in this project, you agree to abide by this Code of Conduct and the [GitHub Community Guidelines](https://help.github.com/articles/github-community-guidelines/).
